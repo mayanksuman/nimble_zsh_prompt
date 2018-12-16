@@ -535,7 +535,7 @@ prompt_pure_state_setup() {
 	fi
 
 	# show username@host
-	username='%F{202}[%n@%m%]%f'
+	username='%F{202}[%n@%m]%f'
 
 	# show username@host if root, with username in white
 	[[ $UID -eq 0 ]] && username='%F{white}%n%f%F{202}@%m%f'
