@@ -1,5 +1,5 @@
 {
-  "name": "pure-prompt",
+  "name": "nimble_zsh_prompt",
   "version": "1.8.0",
   "description": "Pretty, minimal and fast ZSH prompt",
   "license": "MIT",
